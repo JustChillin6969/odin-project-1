@@ -1,0 +1,40 @@
+ul {
+    padding:0;
+    margin:0; 
+    list-style-type: none;
+    display:flex; 
+    gap:20px; 
+    margin-bottom:80px;
+}
+.top-container {
+    display: flex;
+    flex-direction: column;  
+    gap:10px;
+   
+    
+}
+.header {
+    display:flex; 
+    justify-content: space-around;
+}
+
+.bottom-header {
+    display:flex; 
+    gap: 10px; 
+   justify-content: space-evenly;
+    
+}
+.bottom-header-content{ 
+  width:300px;
+   
+}
+.bottom-header-img {
+    width: 300px; 
+    background-color: grey;
+}
+
+
+
+
+
+
