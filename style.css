@@ -21,16 +21,9 @@ padding: 0px;
     gap: 20px; 
 }
 
-.top-container-left {
-   width: 200px; 
-  flex: auto;  
-   }
-
-
-
 .top-container-right {
-width: 350px; 
-flex: auto; 
+
+flex-basis: 1000px; 
 display: flex;
 flex-direction: column;
 }
