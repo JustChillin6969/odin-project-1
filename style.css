@@ -91,4 +91,34 @@ flex-direction: column;
 border-color: #3882f6;
     }
 
+.middle-container-one {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    align-items: center;
+    padding: 10px 100px 100px 100px;
+}
 
+.box {
+    border: 3px solid #3882f6; 
+    height: 150px; 
+   border-radius: 12px;
+  
+}
+
+.middle-container-content {
+    display:flex; 
+    justify-content: center;
+    gap: 40px; 
+    
+}
+
+.box-holder {
+   text-align: center; 
+   flex-basis: 150px;
+  
+   }
+
+.box-holder p {
+    padding: 5px;
+}
