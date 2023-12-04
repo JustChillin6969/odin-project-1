@@ -182,3 +182,9 @@ border-color: #3882f6;
     
 }
 
+footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: #e5e7eb;
+   padding: 20px;
+}
